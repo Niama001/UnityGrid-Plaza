@@ -39,6 +39,14 @@ Here's a walkthrough of implemented required features:
 
 <img src='https://github.com/Niama001/UnityGrid-Plaza/blob/f902b02ad8c220686fdf4618e11b443c7482d60a/musicVenue.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+view of my Render dashboard demonstrating that my Postgres database
+
+<img src='https://github.com/Niama001/UnityGrid-Plaza/blob/28886bb3fcc500a5aaaf99cb5a1a12ad36a3a1a6/renderDashboard.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+a demonstration of your table contents. Use the psql command 'SELECT * FROM tablename;
+
+<img src='https://github.com/Niama001/UnityGrid-Plaza/blob/28886bb3fcc500a5aaaf99cb5a1a12ad36a3a1a6/dataTables.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif GIF tool here
 <!-- Recommended tools:
